@@ -1,0 +1,1 @@
+<img src="{{ asset('images/logo1.png') }}" alt="Logo del Sistema" style="height: 120px; border-radius: 20px;">
